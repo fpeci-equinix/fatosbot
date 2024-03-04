@@ -4,7 +4,7 @@
 
 ## Installation
 
-To use this code, follow these steps:
+To use this code, follow these steps :
 
 1. Clone the repository: **git clone [repository URL]**
 2. Install the required dependencies: **pip install -r requirements.txt**

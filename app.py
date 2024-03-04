@@ -70,7 +70,7 @@ async def init():
 #     pdf_text += page.extract_text()
  # Split the text into chunks
  #texts = text_splitter.split_text(pdf_text)
- 
+  
  documents = []
  for file in os.listdir("docs"):
     if file.endswith(".pdf"):
